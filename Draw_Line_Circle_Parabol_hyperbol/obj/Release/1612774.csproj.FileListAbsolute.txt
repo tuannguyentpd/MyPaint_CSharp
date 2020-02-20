@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\1612774\1612774\bin\Release\1612774.exe.config
+C:\Users\Admin\Desktop\1612774\1612774\bin\Release\1612774.exe
+C:\Users\Admin\Desktop\1612774\1612774\bin\Release\1612774.pdb
+C:\Users\Admin\Desktop\1612774\1612774\obj\Release\_1612774.Form1.resources
+C:\Users\Admin\Desktop\1612774\1612774\obj\Release\_1612774.Properties.Resources.resources
+C:\Users\Admin\Desktop\1612774\1612774\obj\Release\1612774.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\1612774\1612774\obj\Release\1612774.exe
+C:\Users\Admin\Desktop\1612774\1612774\obj\Release\1612774.pdb

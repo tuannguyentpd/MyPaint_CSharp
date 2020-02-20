@@ -1,0 +1,10 @@
+C:\Users\thanhtung\source\repos\myPaint\myPaint\bin\Release\myPaint.exe.config
+C:\Users\thanhtung\source\repos\myPaint\myPaint\bin\Release\myPaint.exe
+C:\Users\thanhtung\source\repos\myPaint\myPaint\bin\Release\myPaint.pdb
+C:\Users\thanhtung\source\repos\myPaint\myPaint\obj\Release\myPaint.Form1.resources
+C:\Users\thanhtung\source\repos\myPaint\myPaint\obj\Release\myPaint.Properties.Resources.resources
+C:\Users\thanhtung\source\repos\myPaint\myPaint\obj\Release\myPaint.csproj.GenerateResource.cache
+C:\Users\thanhtung\source\repos\myPaint\myPaint\obj\Release\myPaint.csproj.CoreCompileInputs.cache
+C:\Users\thanhtung\source\repos\myPaint\myPaint\obj\Release\myPaint.exe
+C:\Users\thanhtung\source\repos\myPaint\myPaint\obj\Release\myPaint.pdb
+C:\Users\thanhtung\source\repos\myPaint\myPaint\obj\Release\myPaint.csprojAssemblyReference.cache
